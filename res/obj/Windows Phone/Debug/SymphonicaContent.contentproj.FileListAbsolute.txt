@@ -1,0 +1,3 @@
+c:\users\sahil\documents\visual studio 2012\Projects\Symphonica\Symphonica\SymphonicaContent\obj\Windows Phone\Debug\SymphonicaContent.contentprojResolveAssemblyReference.cache
+E:\@N N ! e\Documents\Study related\MS(CMPE)\Spring 2014\CMPE 277\Windows\Windows App\Symphonica\Symphonica\SymphonicaContent\obj\Windows Phone\Debug\SymphonicaContent.contentprojResolveAssemblyReference.cache
+C:\Users\Annie\Documents\Visual Studio 2012\Projects\Symphonica\Symphonica\SymphonicaContent\obj\Windows Phone\Debug\SymphonicaContent.contentprojResolveAssemblyReference.cache

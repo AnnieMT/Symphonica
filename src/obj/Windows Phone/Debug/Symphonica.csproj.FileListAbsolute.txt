@@ -1,0 +1,82 @@
+c:\users\sahil\documents\visual studio 2012\Projects\Symphonica\Symphonica\Symphonica\bin\Windows Phone\Debug\Content\song.xnb
+c:\users\sahil\documents\visual studio 2012\Projects\Symphonica\Symphonica\Symphonica\bin\Windows Phone\Debug\Content\a.xnb
+c:\users\sahil\documents\visual studio 2012\Projects\Symphonica\Symphonica\Symphonica\bin\Windows Phone\Debug\Content\as.xnb
+c:\users\sahil\documents\visual studio 2012\Projects\Symphonica\Symphonica\Symphonica\bin\Windows Phone\Debug\Content\b.xnb
+c:\users\sahil\documents\visual studio 2012\Projects\Symphonica\Symphonica\Symphonica\bin\Windows Phone\Debug\Content\c.xnb
+c:\users\sahil\documents\visual studio 2012\Projects\Symphonica\Symphonica\Symphonica\bin\Windows Phone\Debug\Content\c2.xnb
+c:\users\sahil\documents\visual studio 2012\Projects\Symphonica\Symphonica\Symphonica\bin\Windows Phone\Debug\Content\cs.xnb
+c:\users\sahil\documents\visual studio 2012\Projects\Symphonica\Symphonica\Symphonica\bin\Windows Phone\Debug\Content\d.xnb
+c:\users\sahil\documents\visual studio 2012\Projects\Symphonica\Symphonica\Symphonica\bin\Windows Phone\Debug\Content\ds.xnb
+c:\users\sahil\documents\visual studio 2012\Projects\Symphonica\Symphonica\Symphonica\bin\Windows Phone\Debug\Content\e.xnb
+c:\users\sahil\documents\visual studio 2012\Projects\Symphonica\Symphonica\Symphonica\bin\Windows Phone\Debug\Content\f.xnb
+c:\users\sahil\documents\visual studio 2012\Projects\Symphonica\Symphonica\Symphonica\bin\Windows Phone\Debug\Content\fs.xnb
+c:\users\sahil\documents\visual studio 2012\Projects\Symphonica\Symphonica\Symphonica\bin\Windows Phone\Debug\Content\g.xnb
+c:\users\sahil\documents\visual studio 2012\Projects\Symphonica\Symphonica\Symphonica\bin\Windows Phone\Debug\Content\gs.xnb
+c:\users\sahil\documents\visual studio 2012\Projects\Symphonica\Symphonica\Symphonica\bin\Windows Phone\Debug\Content\BlackKey.xnb
+c:\users\sahil\documents\visual studio 2012\Projects\Symphonica\Symphonica\Symphonica\bin\Windows Phone\Debug\Content\WhiteKey.xnb
+c:\users\sahil\documents\visual studio 2012\Projects\Symphonica\Symphonica\Symphonica\bin\Windows Phone\Debug\Symphonica.dll
+c:\users\sahil\documents\visual studio 2012\Projects\Symphonica\Symphonica\Symphonica\bin\Windows Phone\Debug\Symphonica.pdb
+c:\users\sahil\documents\visual studio 2012\Projects\Symphonica\Symphonica\Symphonica\obj\Windows Phone\Debug\Symphonica.csprojResolveAssemblyReference.cache
+c:\users\sahil\documents\visual studio 2012\Projects\Symphonica\Symphonica\Symphonica\obj\Windows Phone\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\sahil\documents\visual studio 2012\Projects\Symphonica\Symphonica\Symphonica\obj\Windows Phone\Debug\Symphonica.dll
+c:\users\sahil\documents\visual studio 2012\Projects\Symphonica\Symphonica\Symphonica\obj\Windows Phone\Debug\Symphonica.pdb
+c:\users\sahil\documents\visual studio 2012\Projects\Symphonica\Symphonica\Symphonica\bin\Windows Phone\Debug\AppManifest.xaml
+c:\users\sahil\documents\visual studio 2012\Projects\Symphonica\Symphonica\Symphonica\obj\Windows Phone\Debug\WMAppManifest.xml.g
+c:\users\sahil\documents\visual studio 2012\Projects\Symphonica\Symphonica\Symphonica\obj\Windows Phone\Debug\WMAppManifest.xml
+bin\Windows Phone\Debug\
+c:\users\sahil\documents\visual studio 2012\Projects\Symphonica\Symphonica\Symphonica\bin\Windows Phone\Debug\Symphonica.xap
+c:\users\sahil\documents\visual studio 2012\Projects\Symphonica\Symphonica\Symphonica\obj\Windows Phone\Debug\XapCacheFile.xml
+E:\@N N ! e\Documents\Study related\MS(CMPE)\Spring 2014\CMPE 277\Windows\Windows App\Symphonica\Symphonica\Symphonica\bin\Windows Phone\Debug\Content\song.xnb
+E:\@N N ! e\Documents\Study related\MS(CMPE)\Spring 2014\CMPE 277\Windows\Windows App\Symphonica\Symphonica\Symphonica\bin\Windows Phone\Debug\Content\a.xnb
+E:\@N N ! e\Documents\Study related\MS(CMPE)\Spring 2014\CMPE 277\Windows\Windows App\Symphonica\Symphonica\Symphonica\bin\Windows Phone\Debug\Content\as.xnb
+E:\@N N ! e\Documents\Study related\MS(CMPE)\Spring 2014\CMPE 277\Windows\Windows App\Symphonica\Symphonica\Symphonica\bin\Windows Phone\Debug\Content\b.xnb
+E:\@N N ! e\Documents\Study related\MS(CMPE)\Spring 2014\CMPE 277\Windows\Windows App\Symphonica\Symphonica\Symphonica\bin\Windows Phone\Debug\Content\c.xnb
+E:\@N N ! e\Documents\Study related\MS(CMPE)\Spring 2014\CMPE 277\Windows\Windows App\Symphonica\Symphonica\Symphonica\bin\Windows Phone\Debug\Content\c2.xnb
+E:\@N N ! e\Documents\Study related\MS(CMPE)\Spring 2014\CMPE 277\Windows\Windows App\Symphonica\Symphonica\Symphonica\bin\Windows Phone\Debug\Content\cs.xnb
+E:\@N N ! e\Documents\Study related\MS(CMPE)\Spring 2014\CMPE 277\Windows\Windows App\Symphonica\Symphonica\Symphonica\bin\Windows Phone\Debug\Content\d.xnb
+E:\@N N ! e\Documents\Study related\MS(CMPE)\Spring 2014\CMPE 277\Windows\Windows App\Symphonica\Symphonica\Symphonica\bin\Windows Phone\Debug\Content\ds.xnb
+E:\@N N ! e\Documents\Study related\MS(CMPE)\Spring 2014\CMPE 277\Windows\Windows App\Symphonica\Symphonica\Symphonica\bin\Windows Phone\Debug\Content\e.xnb
+E:\@N N ! e\Documents\Study related\MS(CMPE)\Spring 2014\CMPE 277\Windows\Windows App\Symphonica\Symphonica\Symphonica\bin\Windows Phone\Debug\Content\f.xnb
+E:\@N N ! e\Documents\Study related\MS(CMPE)\Spring 2014\CMPE 277\Windows\Windows App\Symphonica\Symphonica\Symphonica\bin\Windows Phone\Debug\Content\fs.xnb
+E:\@N N ! e\Documents\Study related\MS(CMPE)\Spring 2014\CMPE 277\Windows\Windows App\Symphonica\Symphonica\Symphonica\bin\Windows Phone\Debug\Content\g.xnb
+E:\@N N ! e\Documents\Study related\MS(CMPE)\Spring 2014\CMPE 277\Windows\Windows App\Symphonica\Symphonica\Symphonica\bin\Windows Phone\Debug\Content\gs.xnb
+E:\@N N ! e\Documents\Study related\MS(CMPE)\Spring 2014\CMPE 277\Windows\Windows App\Symphonica\Symphonica\Symphonica\bin\Windows Phone\Debug\Content\BlackKey.xnb
+E:\@N N ! e\Documents\Study related\MS(CMPE)\Spring 2014\CMPE 277\Windows\Windows App\Symphonica\Symphonica\Symphonica\bin\Windows Phone\Debug\Content\WhiteKey.xnb
+E:\@N N ! e\Documents\Study related\MS(CMPE)\Spring 2014\CMPE 277\Windows\Windows App\Symphonica\Symphonica\Symphonica\bin\Windows Phone\Debug\Symphonica.dll
+E:\@N N ! e\Documents\Study related\MS(CMPE)\Spring 2014\CMPE 277\Windows\Windows App\Symphonica\Symphonica\Symphonica\bin\Windows Phone\Debug\Symphonica.pdb
+E:\@N N ! e\Documents\Study related\MS(CMPE)\Spring 2014\CMPE 277\Windows\Windows App\Symphonica\Symphonica\Symphonica\obj\Windows Phone\Debug\Symphonica.csprojResolveAssemblyReference.cache
+E:\@N N ! e\Documents\Study related\MS(CMPE)\Spring 2014\CMPE 277\Windows\Windows App\Symphonica\Symphonica\Symphonica\obj\Windows Phone\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\@N N ! e\Documents\Study related\MS(CMPE)\Spring 2014\CMPE 277\Windows\Windows App\Symphonica\Symphonica\Symphonica\obj\Windows Phone\Debug\Symphonica.dll
+E:\@N N ! e\Documents\Study related\MS(CMPE)\Spring 2014\CMPE 277\Windows\Windows App\Symphonica\Symphonica\Symphonica\obj\Windows Phone\Debug\Symphonica.pdb
+E:\@N N ! e\Documents\Study related\MS(CMPE)\Spring 2014\CMPE 277\Windows\Windows App\Symphonica\Symphonica\Symphonica\bin\Windows Phone\Debug\AppManifest.xaml
+E:\@N N ! e\Documents\Study related\MS(CMPE)\Spring 2014\CMPE 277\Windows\Windows App\Symphonica\Symphonica\Symphonica\obj\Windows Phone\Debug\WMAppManifest.xml.g
+E:\@N N ! e\Documents\Study related\MS(CMPE)\Spring 2014\CMPE 277\Windows\Windows App\Symphonica\Symphonica\Symphonica\obj\Windows Phone\Debug\WMAppManifest.xml
+E:\@N N ! e\Documents\Study related\MS(CMPE)\Spring 2014\CMPE 277\Windows\Windows App\Symphonica\Symphonica\Symphonica\bin\Windows Phone\Debug\Symphonica.xap
+E:\@N N ! e\Documents\Study related\MS(CMPE)\Spring 2014\CMPE 277\Windows\Windows App\Symphonica\Symphonica\Symphonica\obj\Windows Phone\Debug\XapCacheFile.xml
+C:\Users\Annie\Documents\Visual Studio 2012\Projects\Symphonica\Symphonica\Symphonica\bin\Windows Phone\Debug\Content\song.xnb
+C:\Users\Annie\Documents\Visual Studio 2012\Projects\Symphonica\Symphonica\Symphonica\bin\Windows Phone\Debug\Content\a.xnb
+C:\Users\Annie\Documents\Visual Studio 2012\Projects\Symphonica\Symphonica\Symphonica\bin\Windows Phone\Debug\Content\as.xnb
+C:\Users\Annie\Documents\Visual Studio 2012\Projects\Symphonica\Symphonica\Symphonica\bin\Windows Phone\Debug\Content\b.xnb
+C:\Users\Annie\Documents\Visual Studio 2012\Projects\Symphonica\Symphonica\Symphonica\bin\Windows Phone\Debug\Content\c.xnb
+C:\Users\Annie\Documents\Visual Studio 2012\Projects\Symphonica\Symphonica\Symphonica\bin\Windows Phone\Debug\Content\c2.xnb
+C:\Users\Annie\Documents\Visual Studio 2012\Projects\Symphonica\Symphonica\Symphonica\bin\Windows Phone\Debug\Content\cs.xnb
+C:\Users\Annie\Documents\Visual Studio 2012\Projects\Symphonica\Symphonica\Symphonica\bin\Windows Phone\Debug\Content\d.xnb
+C:\Users\Annie\Documents\Visual Studio 2012\Projects\Symphonica\Symphonica\Symphonica\bin\Windows Phone\Debug\Content\ds.xnb
+C:\Users\Annie\Documents\Visual Studio 2012\Projects\Symphonica\Symphonica\Symphonica\bin\Windows Phone\Debug\Content\e.xnb
+C:\Users\Annie\Documents\Visual Studio 2012\Projects\Symphonica\Symphonica\Symphonica\bin\Windows Phone\Debug\Content\f.xnb
+C:\Users\Annie\Documents\Visual Studio 2012\Projects\Symphonica\Symphonica\Symphonica\bin\Windows Phone\Debug\Content\fs.xnb
+C:\Users\Annie\Documents\Visual Studio 2012\Projects\Symphonica\Symphonica\Symphonica\bin\Windows Phone\Debug\Content\g.xnb
+C:\Users\Annie\Documents\Visual Studio 2012\Projects\Symphonica\Symphonica\Symphonica\bin\Windows Phone\Debug\Content\gs.xnb
+C:\Users\Annie\Documents\Visual Studio 2012\Projects\Symphonica\Symphonica\Symphonica\bin\Windows Phone\Debug\Content\BlackKey.xnb
+C:\Users\Annie\Documents\Visual Studio 2012\Projects\Symphonica\Symphonica\Symphonica\bin\Windows Phone\Debug\Content\WhiteKey.xnb
+C:\Users\Annie\Documents\Visual Studio 2012\Projects\Symphonica\Symphonica\Symphonica\bin\Windows Phone\Debug\Symphonica.dll
+C:\Users\Annie\Documents\Visual Studio 2012\Projects\Symphonica\Symphonica\Symphonica\bin\Windows Phone\Debug\Symphonica.pdb
+C:\Users\Annie\Documents\Visual Studio 2012\Projects\Symphonica\Symphonica\Symphonica\obj\Windows Phone\Debug\Symphonica.csprojResolveAssemblyReference.cache
+C:\Users\Annie\Documents\Visual Studio 2012\Projects\Symphonica\Symphonica\Symphonica\obj\Windows Phone\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Annie\Documents\Visual Studio 2012\Projects\Symphonica\Symphonica\Symphonica\obj\Windows Phone\Debug\Symphonica.dll
+C:\Users\Annie\Documents\Visual Studio 2012\Projects\Symphonica\Symphonica\Symphonica\obj\Windows Phone\Debug\Symphonica.pdb
+C:\Users\Annie\Documents\Visual Studio 2012\Projects\Symphonica\Symphonica\Symphonica\bin\Windows Phone\Debug\AppManifest.xaml
+C:\Users\Annie\Documents\Visual Studio 2012\Projects\Symphonica\Symphonica\Symphonica\obj\Windows Phone\Debug\WMAppManifest.xml.g
+C:\Users\Annie\Documents\Visual Studio 2012\Projects\Symphonica\Symphonica\Symphonica\obj\Windows Phone\Debug\WMAppManifest.xml
+C:\Users\Annie\Documents\Visual Studio 2012\Projects\Symphonica\Symphonica\Symphonica\bin\Windows Phone\Debug\Symphonica.xap
+C:\Users\Annie\Documents\Visual Studio 2012\Projects\Symphonica\Symphonica\Symphonica\obj\Windows Phone\Debug\XapCacheFile.xml

@@ -1,0 +1,191 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>song.wav</Source>
+      <Name>song</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Annie\Documents\Visual Studio 2012\Projects\Symphonica\Symphonica\Symphonica\bin\Windows Phone\Debug\Content\song.xnb</Output>
+      <Time>2014-03-30T19:05:52.697-07:00</Time>
+    </Item>
+    <Item>
+      <Source>a.wav</Source>
+      <Name>a</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Annie\Documents\Visual Studio 2012\Projects\Symphonica\Symphonica\Symphonica\bin\Windows Phone\Debug\Content\a.xnb</Output>
+      <Time>2014-03-26T19:20:12.307-07:00</Time>
+    </Item>
+    <Item>
+      <Source>as.wav</Source>
+      <Name>as</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Annie\Documents\Visual Studio 2012\Projects\Symphonica\Symphonica\Symphonica\bin\Windows Phone\Debug\Content\as.xnb</Output>
+      <Time>2014-03-26T19:20:12.321-07:00</Time>
+    </Item>
+    <Item>
+      <Source>b.wav</Source>
+      <Name>b</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Annie\Documents\Visual Studio 2012\Projects\Symphonica\Symphonica\Symphonica\bin\Windows Phone\Debug\Content\b.xnb</Output>
+      <Time>2014-03-26T19:20:12.332-07:00</Time>
+    </Item>
+    <Item>
+      <Source>c.wav</Source>
+      <Name>c</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Annie\Documents\Visual Studio 2012\Projects\Symphonica\Symphonica\Symphonica\bin\Windows Phone\Debug\Content\c.xnb</Output>
+      <Time>2014-03-26T19:20:12.351-07:00</Time>
+    </Item>
+    <Item>
+      <Source>c2.wav</Source>
+      <Name>c2</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Annie\Documents\Visual Studio 2012\Projects\Symphonica\Symphonica\Symphonica\bin\Windows Phone\Debug\Content\c2.xnb</Output>
+      <Time>2014-03-26T19:20:12.362-07:00</Time>
+    </Item>
+    <Item>
+      <Source>cs.wav</Source>
+      <Name>cs</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Annie\Documents\Visual Studio 2012\Projects\Symphonica\Symphonica\Symphonica\bin\Windows Phone\Debug\Content\cs.xnb</Output>
+      <Time>2014-03-26T19:20:12.372-07:00</Time>
+    </Item>
+    <Item>
+      <Source>d.wav</Source>
+      <Name>d</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Annie\Documents\Visual Studio 2012\Projects\Symphonica\Symphonica\Symphonica\bin\Windows Phone\Debug\Content\d.xnb</Output>
+      <Time>2014-03-26T19:20:12.384-07:00</Time>
+    </Item>
+    <Item>
+      <Source>ds.wav</Source>
+      <Name>ds</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Annie\Documents\Visual Studio 2012\Projects\Symphonica\Symphonica\Symphonica\bin\Windows Phone\Debug\Content\ds.xnb</Output>
+      <Time>2014-03-26T19:20:12.405-07:00</Time>
+    </Item>
+    <Item>
+      <Source>e.wav</Source>
+      <Name>e</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Annie\Documents\Visual Studio 2012\Projects\Symphonica\Symphonica\Symphonica\bin\Windows Phone\Debug\Content\e.xnb</Output>
+      <Time>2014-03-26T19:20:12.417-07:00</Time>
+    </Item>
+    <Item>
+      <Source>f.wav</Source>
+      <Name>f</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Annie\Documents\Visual Studio 2012\Projects\Symphonica\Symphonica\Symphonica\bin\Windows Phone\Debug\Content\f.xnb</Output>
+      <Time>2014-03-26T19:20:12.429-07:00</Time>
+    </Item>
+    <Item>
+      <Source>fs.wav</Source>
+      <Name>fs</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Annie\Documents\Visual Studio 2012\Projects\Symphonica\Symphonica\Symphonica\bin\Windows Phone\Debug\Content\fs.xnb</Output>
+      <Time>2014-03-26T19:20:12.44-07:00</Time>
+    </Item>
+    <Item>
+      <Source>g.wav</Source>
+      <Name>g</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Annie\Documents\Visual Studio 2012\Projects\Symphonica\Symphonica\Symphonica\bin\Windows Phone\Debug\Content\g.xnb</Output>
+      <Time>2014-03-26T19:20:12.452-07:00</Time>
+    </Item>
+    <Item>
+      <Source>gs.wav</Source>
+      <Name>gs</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Annie\Documents\Visual Studio 2012\Projects\Symphonica\Symphonica\Symphonica\bin\Windows Phone\Debug\Content\gs.xnb</Output>
+      <Time>2014-03-26T19:20:12.463-07:00</Time>
+    </Item>
+    <Item>
+      <Source>BlackKey.png</Source>
+      <Name>BlackKey</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Annie\Documents\Visual Studio 2012\Projects\Symphonica\Symphonica\Symphonica\bin\Windows Phone\Debug\Content\BlackKey.xnb</Output>
+      <Time>2014-03-26T19:20:12.34-07:00</Time>
+    </Item>
+    <Item>
+      <Source>WhiteKey.png</Source>
+      <Name>WhiteKey</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Annie\Documents\Visual Studio 2012\Projects\Symphonica\Symphonica\Symphonica\bin\Windows Phone\Debug\Content\WhiteKey.xnb</Output>
+      <Time>2014-03-26T19:20:12.471-07:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{AEFD3B16-3079-4804-8F1B-77D47BFE40B2}</ContentProjectGUID>
+      <TargetPlatform>WindowsPhone</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Annie\Documents\Visual Studio 2012\Projects\Symphonica\Symphonica\SymphonicaContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Annie\Documents\Visual Studio 2012\Projects\Symphonica\Symphonica\Symphonica\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Annie\Documents\Visual Studio 2012\Projects\Symphonica\Symphonica\Symphonica\obj\Windows Phone\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Annie\Documents\Visual Studio 2012\Projects\Symphonica\Symphonica\Symphonica\bin\Windows Phone\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2012-09-06T14:52:54-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2012-09-06T14:52:54-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2012-09-06T14:52:54-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2012-09-06T14:52:54-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2012-09-06T14:52:54-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2012-09-06T14:52:54-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2014-04-03T22:27:43.7770118-07:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
